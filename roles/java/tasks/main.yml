@@ -1,0 +1,5 @@
+---
+- name: install java packages
+  package:
+    name: "{{ java_packages }}"
+    state: latest
