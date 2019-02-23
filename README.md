@@ -19,6 +19,5 @@ You need to have 'Vagrant' and 'virtualbox' installed and configured.
 Video URL:
 ----------
 
-<to be update>
-
+https://www.youtube.com/watch?v=nzUfkxGRPjA&feature=youtu.be
 
